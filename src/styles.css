@@ -1,0 +1,60 @@
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+  padding: 0;
+  margin: 0;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+button {
+  border: none;
+  background-color: white;
+}
+
+.App {
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+
+#setters {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0px;
+}
+
+#main-display {
+  box-shadow: 0px -3px 10px 2px gray;
+  padding: 20px;
+}
+
+.time-setter-box {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+.setter-box {
+  box-shadow: 0px -5px 10px gray;
+  padding: 10px;
+}
+
+#time-left {
+  font-size: 60px;
+  font-family: 'Crimson Text';
+  margin: 15px;
+  font-weight: 120px;
+}
+
+.fa-arrow-up {
+  color: #90ee90;
+}
+
+.fa-arrow-down {
+  color: coral;
+}
